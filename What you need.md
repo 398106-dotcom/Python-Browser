@@ -20,6 +20,7 @@ This project requires the following Python modules and packages:
 Make sure to run the following commands in your terminal before running the project:
 
 pip install cryptography
+
 pip install PyQt6 PyQt6-WebEngine
 
 
